@@ -1,11 +1,4 @@
-import {
-  View,
-  Text,
-  SafeAreaView,
-  Image,
-  TextInput,
-  ScrollView,
-} from 'react-native';
+import { View, Text, Image, TextInput, ScrollView } from 'react-native';
 import React, { useLayoutEffect, useState, useEffect } from 'react';
 import { useNavigation } from '@react-navigation/native';
 import {
@@ -17,6 +10,7 @@ import {
 import Categories from '../components/categories';
 import FeaturedRow from '../components/featuredRow';
 import { client } from '../sanity';
+import { SafeAreaView } from 'react-native-safe-area-context';
 
 const HomeScreen = () => {
   const navigation = useNavigation();
@@ -46,10 +40,8 @@ const HomeScreen = () => {
       });
   }, []);
 
-  console.log(featuredCategories);
-
   return (
-    <SafeAreaView className="pt-12 bg-white">
+    <SafeAreaView className="bg-white">
       {/* Header */}
       <View className="flex-row pb-3 items-center mx-4 space-x-2">
         <Image

@@ -1,4 +1,4 @@
-![Screens](https://i.ibb.co/KywkBYJ/Main.jpg)
+![Main](https://user-images.githubusercontent.com/36279782/228518708-b7125c19-e29e-4350-8455-c890e86209ad.jpg)
 
 <!-- ABOUT THE PROJECT -->
 

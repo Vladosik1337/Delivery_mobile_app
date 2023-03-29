@@ -1,15 +1,4 @@
-<br />
-<p align="center">
-  <a href="https://github.com/Vladosik1337/Delivery-App">
-    <img src="https://i.ibb.co/KywkBYJ/Main.jpg" alt="Header photo" >
-  </a>
-
-  <h3 align="center">Delivery App</h3>
-
-  <p align="center">
-    A debate app built with React Native / Expo. Using Sanity as backend.
-  </p>
-</p>
+![Screens](https://i.ibb.co/KywkBYJ/Main.jpg)
 
 <!-- ABOUT THE PROJECT -->
 
@@ -33,7 +22,8 @@ Welcome to our delivery app! Our app allows you to order food from different res
 ## Screens
 
 ![Screens](https://i.ibb.co/Wkrp8d5/Screens.jpg)
-![IMG_0458_MP4_AdobeExpress](https://user-images.githubusercontent.com/36279782/228515392-32ef892b-723b-4788-aaf2-6d920f306587.gif)
+![7a263c0ffa6a8546db8d7b3e06a1bd1648ca7a78](https://user-images.githubusercontent.com/36279782/228517398-3440fe74-a50e-4b50-9c2a-8f94ac45c0bd.gif)
+
 
 <!-- GETTING STARTED -->
 

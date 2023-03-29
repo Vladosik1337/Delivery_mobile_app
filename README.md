@@ -22,6 +22,7 @@ Welcome to our delivery app! Our app allows you to order food from different res
 ## Screens
 
 ![Screens](https://i.ibb.co/Wkrp8d5/Screens.jpg)
+![7a263c0ffa6a8546db8d7b3e06a1bd1648ca7a78](https://user-images.githubusercontent.com/36279782/228520282-91ffa2db-88d2-4d67-bf76-b4806dde0404.gif)
 
 
 <!-- GETTING STARTED -->
